@@ -10,7 +10,7 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
-# API Node.js com Serverless Framework em ambiente AWS
+# API Node.js com Serverless Framework em ambiente AWS (Para revisão)
 
 Este projeto teve como objetivo a entrega de uma infraestrutra em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento baseada em Infraestrutura as a Code.
 
