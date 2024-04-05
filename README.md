@@ -12,7 +12,7 @@ authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 
 # API Node.js com Serverless Framework em ambiente AWS 
 
-Este projeto foi alterado com meu código, no entanto, vou melhorá-lo no qual teve a contribuição do fork do Cassiano e tem como como objetivo a entrega de uma infraestrutra em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento baseada em Infraestrutura as a Code.
+Fiz o fork do Cassiano, e alteração do código foi realziada afim de apresentar o resultado de meu trabalho, no entanto, vou melhorá-lo, pois este tem como como objetivo a entrega de uma infraestrutra em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento baseada em Infraestrutura as a Code.
 
 service: meu-servico
 
